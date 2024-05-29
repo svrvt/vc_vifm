@@ -1,0 +1,9 @@
+*
+!/.config/vifm/scripts/README
+!/.config/vifm/scripts/vifmimg
+!/.config/vifm/scripts/vifmrun
+!/.config/vifm/vifm-help.txt
+!/.config/vifm/vifmrc
+!/.gitignore.d/vc_vifm
+!/.local/share/applications/vifm.desktop
+!/.local/share/icons/vifm.png

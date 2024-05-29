@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=vifm
+Comment=Launches the vifm file manager
+Icon=vifm
+Terminal=true
+Exec=vifm %U
+Categories=ConsoleOnly;System;FileTools;FileManager
+MimeType=inode/directory;
+Keywords=File;Manager;Browser;Explorer
