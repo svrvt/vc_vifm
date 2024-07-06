@@ -1,5 +1,8 @@
 *
 !/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/vc_vifm
 !/.config/vifm
 !/.config/vifm/scripts
 !/.config/vifm/scripts/README
