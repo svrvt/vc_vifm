@@ -1,4 +1,4 @@
-[~/.config/vcsh/repo.d/vc_vifm.git]
+[$HOME/.config/vcsh/repo.d/vc_vifm.git]
 checkout = vcsh clone https://github.com/svrvt/vc_vifm.git
 
 # vi: ft=ini syntax=sh
